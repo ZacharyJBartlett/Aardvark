@@ -5,7 +5,6 @@ Group 1 Project
 
 Aardvark is a user friendly college debt analysis tool
 
- ##screenshots
 
 
  
